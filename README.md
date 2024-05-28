@@ -35,3 +35,7 @@ Last updated on 2021-11-18.
 
 This work is released under the MIT license. A copy of the license is provided
 in the [LICENSE](./LICENSE) file.
+
+## References
+
+- https://crf.sourceforge.net/
